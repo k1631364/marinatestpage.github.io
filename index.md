@@ -5,13 +5,17 @@ title: My Robotics Project
 
 # My Robotics Project
 
-This project explores robot grasping with deep learning.
+<!-- Embed a YouTube video -->
+<iframe width="800" height="450" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 
-![Demo Video](https://user-images.githubusercontent.com/yourusername/demo-video.gif)
+## Dataset
 
-Or embed YouTube video:
+This section describes the dataset used in our experiments. The dataset consists of both simulated and real tactile data from various sensors.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+## Method
 
-More details and code are available on [GitHub](https://github.com/yourusername/project).
+Our method integrates tactile sensing with vision to improve grasping accuracy...
 
+## Results
+
+We demonstrate significant improvement in grasp success rates on real robot experiments.
