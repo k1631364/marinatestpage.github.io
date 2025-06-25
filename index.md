@@ -1,12 +1,17 @@
-title: Marina's Test Page
-theme: minima  # GitHub Pages supports 'minima' and a few others by default---
+---
 layout: default
-title: Home
+title: My Robotics Project
 ---
 
-# Welcome to Marina's Page
+# My Robotics Project
 
-This page is built with **Jekyll** and GitHub Pages.
+This project explores robot grasping with deep learning.
 
-- You can use Markdown!
-- Add more pages easily.
+![Demo Video](https://user-images.githubusercontent.com/yourusername/demo-video.gif)
+
+Or embed YouTube video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+
+More details and code are available on [GitHub](https://github.com/yourusername/project).
+
