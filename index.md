@@ -1,6 +1,6 @@
 ---
 layout: default
-title: test2 Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
+title: Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
 ---
 
 # Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
