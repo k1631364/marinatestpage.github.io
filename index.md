@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Robotics Project
+title: Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
 ---
 
 # Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
