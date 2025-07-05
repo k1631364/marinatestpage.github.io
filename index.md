@@ -3,6 +3,22 @@ layout: default
 title: Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
 ---
 
+<style>
+/* Make the banner white */
+.page-header {
+  background-color: white !important;
+}
+.project-name,
+.project-tagline {
+  color: black !important;
+}
+
+/* Hide the "View on GitHub" button */
+.github-corner {
+  display: none !important;
+}
+</style>
+
 # Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
 
 <!-- Embed a YouTube video -->
